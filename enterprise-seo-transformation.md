@@ -162,15 +162,4 @@ Rather than attempting to optimize 100,000+ pages, I developed an impact analysi
 
 ---
 
-## Current Projects
-
-### 🤖 Screaming Frog + Claude API Integration
-Building an automated SEO audit system that:
-- Connects enterprise crawlers with Claude's API
-- Provides intelligent analysis and prioritization
-- Reduces manual audit time from 4 hours to 15 minutes
-- Scales across unlimited properties
-
----
-
 *Note: Client information anonymized for NDA compliance. Specific metrics from actual engagements.*
